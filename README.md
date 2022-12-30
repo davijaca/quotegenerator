@@ -1,1 +1,1 @@
-[Go to the site](https://sapinsobre.github.io/quote-generator)
+[HEAD OVER THERE](https://davijaca.github.io/quotegenerator)
